@@ -68,6 +68,8 @@ zum Beispiel mit Photoshop den Hex-Code kopieren:
 
 ![image](https://github.com/caaarlito/DTM/assets/134683878/8e7522d6-cfbc-411c-996a-5d4ce152fac5)
 
+*oder Farbpalette neu erstellen: https://observablehq.com/@benjaminadk/bivariate-choropleth-color-generator*
+
 GDP Symbolisierung auf Kategorisiert nach "GDP_F" setzen und Farben übertragen:
 
 ![image](https://github.com/caaarlito/DTM/assets/134683878/73f2d3c4-505f-4bc0-bcfc-0009703e270a)
