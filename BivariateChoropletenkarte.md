@@ -12,9 +12,9 @@ Daten verknüpen:
 
 ## QGIS
 
-Layer duplizieren
+1.) Layer duplizieren
 
-Rechtsklick -> Filter
+2.) Eines der beiden Layer ausdünnen, um nur Länder mit vorhandenen Daten anzuzeigen. Rechtsklick -> Filter
 ```
 "Ladder sco" IS NOT NULL
 ```
