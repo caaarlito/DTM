@@ -1,4 +1,4 @@
-# Neu
+# Connectivity Maps / Ursprungs-Ziel-Karte
 
 ## Datenquelle
 
