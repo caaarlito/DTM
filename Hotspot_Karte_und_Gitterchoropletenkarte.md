@@ -56,3 +56,7 @@ hotel room:
 
 - erste Karte aufziehen und dann Layer sperren
 - Karte kopieren, in QGIS die Heatmap ändern und im Drucklayout aktualisieren, danach wieder Layer sperren
+- für Schrift mit Farbverlauf -> Rechteck mit Graduientenfüllung drüber legen und bei Darstellung Mischmodus = Multiplizieren
+
+![image](https://github.com/caaarlito/DTM/assets/134683878/8ebd789c-4879-4467-be3f-79a73e96ec56)
+
