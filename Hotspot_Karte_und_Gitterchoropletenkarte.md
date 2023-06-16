@@ -10,7 +10,7 @@ Inside Airbnb (http://insideairbnb.com/get-the-data) -> Berlin neighbourhoods.ge
 
 2.) listings 4x duplizieren und jeweils Filtern
 
-entire dpt:
+entire apt:
 ```
 "room_type" = 'Entire home/apt' AND "price" < 9999
 ```
