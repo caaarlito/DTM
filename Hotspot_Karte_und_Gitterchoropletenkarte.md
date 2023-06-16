@@ -1,4 +1,4 @@
-# Hotspot Karte
+# Hotspot Karte oder Gitterchoropletenkarte
 
 ## Datenquelle
 
@@ -44,4 +44,15 @@ hotel room:
 
 - bei zu berechnende Zusammenfassungen "Durchschnitt" wählen
 
+- dann die Gitter Symboliseung ändern -> Gitterchopletenkarte fertig
 
+5.) Symbolisierung Heatmap der Punktwolken
+
+![image](https://github.com/caaarlito/DTM/assets/134683878/7e462c03-f74c-43e2-85c5-22bdf93b29b1)
+
+6.) Berlin Umrisse durch Symbolisierung von Neighbourhoods "verschmolzen"
+
+7.) Drucklayout mit mehreren Karten
+
+- erste Karte aufziehen und dann Layer sperren
+- Karte kopieren, in QGIS die Heatmap ändern und im Drucklayout aktualisieren, danach wieder Layer sperren
