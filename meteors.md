@@ -46,6 +46,13 @@ Zeitsteuerung auf Layer anwenden:
 
 ![image](https://github.com/caaarlito/DTM/assets/134683878/247c46b8-4534-43a2-b21b-6710de437a93)
 
+6.) Unter Ansicht -> Dekoration Urheberechtshinweis hinzufügen
 
+7.) Animation exportieren
 
+![image](https://github.com/caaarlito/DTM/assets/134683878/3f5e6f50-6a4b-4836-949f-c4a984cf26e3)
+
+8.) In Photoshop laden und mit Leitfaden in Animation umwandeln
+
+https://helpx.adobe.com/de/photoshop/how-to/make-animated-gif.html
 
