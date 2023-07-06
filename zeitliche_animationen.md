@@ -15,7 +15,7 @@ MeteorMap 12-08-2022 (https://tammojan.github.io/meteormap/)
 
 ![image](https://github.com/caaarlito/DTM/assets/134683878/d0f0a3a6-1a41-4a1d-9e39-c65f5a4988ee)
 
-Falls csv-Datei benutzt wird -> Geometriegenerator:
+Falls csv-Datei benutzt wird (nach dem einladen Datei nochmal exportieren, dann Feldtyp zu Datetime ändern) -> Geometriegenerator:
 ```
  make_line($geometry, make_point("LonEnd", "LatEnd"))
 ```
