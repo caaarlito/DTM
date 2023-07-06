@@ -61,3 +61,8 @@ Zeitsteuerung auf Layer anwenden:
 
 https://helpx.adobe.com/de/photoshop/how-to/make-animated-gif.html
 
+## Ergebnis
+
+![sternschnuppen_12_08_2022](https://github.com/caaarlito/DTM/assets/134683878/97b0613b-078c-4660-a583-b1fd29387023)
+
+
