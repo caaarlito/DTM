@@ -17,7 +17,7 @@ MeteorMap 12-08-2022 (https://tammojan.github.io/meteormap/)
 
 Falls csv-Datei benutzt wird -> Geometriegenerator:
 ```
- make_line($geometry, make_point("LonEnd", "LatEnd")
+ make_line($geometry, make_point("LonEnd", "LatEnd"))
 ```
 
 3.) Monatsdaten einladen und Stil kopieren
