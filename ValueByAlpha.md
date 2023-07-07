@@ -47,3 +47,7 @@ scale_linear(
  230, 0)
 )
 ```
+
+## Beispiel Ergebnis
+
+![image](https://github.com/caaarlito/DTM/assets/134683878/0b6f41ed-3e3a-46e9-b0a1-0fb06cfdb992)
