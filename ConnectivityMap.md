@@ -109,3 +109,6 @@ Punkte:
 
 ![image](https://github.com/caaarlito/DTM/assets/134683878/c82a2a65-f88a-4767-a554-ca20ba2bb54e)
 
+## Ergebnis
+
+![connectivity_map_venezuela-carlo_persicke](https://github.com/caaarlito/DTM/assets/134683878/53956265-126f-4482-b76a-0e4a5b91e48c)
