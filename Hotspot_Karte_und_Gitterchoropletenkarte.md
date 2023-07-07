@@ -60,3 +60,6 @@ hotel room:
 
 ![image](https://github.com/caaarlito/DTM/assets/134683878/8ebd789c-4879-4467-be3f-79a73e96ec56)
 
+## Ergebnis
+
+![venedig_airbnb_hotspots_carlo_persicke](https://github.com/caaarlito/DTM/assets/134683878/ec447f8d-44a0-4d91-b214-a3c28caa4e44)
